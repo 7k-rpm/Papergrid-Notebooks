@@ -1,0 +1,262 @@
+body{
+    margin: 0;
+   
+}
+
+
+.toper{
+    margin: 0;
+    text-align: center;
+    background-color:rgb(18, 18, 18);
+    color: #fff;
+    height: 30px;
+    font-size: 13px;
+    padding-top: 8px;
+    cursor: pointer;
+    
+}
+.fixed{
+    background-color: black;
+    height: 30px;
+  margin: 0;
+  margin-top: -4px;
+  cursor: pointer;
+ 
+}
+
+
+.header{
+   
+    background-color: rgb(18, 18, 18);
+    width: 100%;
+    height: 106px;
+    position: fixed;
+    z-index: 100;
+}
+.ppp{
+    display: grid;
+    grid-template-columns: 100px 70px 70px 70px 700px 31px 100px;
+    list-style: none;
+    font-size: 17px;
+    
+   
+}
+.nav1{
+    color: #dddddd;
+    margin: 2px 93px;
+    cursor: pointer;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.nav2{
+    margin: 2px 95px;
+    color: #dddddd;
+    cursor: pointer;
+}
+.nav3{
+    margin: 2px 112px;
+    color: #dddddd;
+    cursor: pointer;
+}
+.nav4{
+    margin: 2px 138px;
+    color: #dddddd;
+    cursor: pointer;
+}
+.nav5{
+    margin: 2px 138px;
+    color: #dddddd;
+    cursor: pointer;
+}
+.nav6{
+    margin: 2px 138px;
+    color: #dddddd;
+    cursor: pointer;
+    cursor: pointer;
+}
+.nav1:hover{
+   
+color: #fff;
+}
+.nav2:hover{
+    text-decoration: underline;
+    color: #fff;
+
+}
+.nav3:hover{
+    text-decoration: underline;
+    color: #fff;
+}
+.nav4:hover{
+    text-decoration: underline;
+    color: #fff;
+}
+.nav5:hover{
+    color: #fff;
+}
+.nav6:hover{
+    color: #fff;
+}
+.profile1{
+    margin: 6px 112px;
+}
+.toper:hover{
+background-color: rgb(37, 37, 37);
+}
+.books{
+    margin: 0px 113px;
+    width: 90%;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    padding: 140px 0px;
+   gap: 15px;
+}
+.b1{
+    box-sizing: border-box;
+    width: 80%;
+    position: relative;
+    cursor: pointer;
+}
+.author{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    margin-top: -95px;
+}
+.A2{
+    color: black;
+    margin: 52px 65px;
+}
+.b3{
+    background-color: black;
+    color: #fff;
+    height: 55px;
+    width: 160px;
+    cursor: pointer;
+   
+}
+.aa1{
+    width: 345px;
+    margin-left: 92px;
+}
+.txt1{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: rgb(66, 66, 66);
+    width: 100%;
+    font-weight: 500;
+}
+.txt2{
+    font-size: 18px;
+    color: rgb(73, 73, 73);
+    width: 100%;
+    font-weight: 500;
+}
+
+.a2a{
+    color: black;
+
+}
+.contact{
+   background-color: black;
+   height: 180px;
+   padding: 51px 0px;
+   margin: 45px 0px;
+}
+.contact-info{
+    color: white;
+    text-align: center;
+    font: lighter;
+    font-size: 18px;
+}
+.contact-info1{
+    color: #a1a1a1;
+    text-align: center;
+    font: lighter;
+    font-size: 18px;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.contact-info2{
+    color: #a1a1a1;
+    text-align: center;
+    font: lighter;
+    font-size: 18px;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.contact-info3{
+    color: #a1a1a1;
+    text-align: center;
+    font: lighter;
+    font-size: 18px;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.contact-info4{
+    color: #a1a1a1;
+    margin: 0px 600px;
+   list-style: none;
+   cursor: pointer;
+   
+}
+.contact-info1:hover{
+    color: #fff;
+}
+.contact-info2:hover{
+    color: #fff;
+}
+.contact-info3:hover{
+    color: #fff;
+}
+.contact-info4:hover{
+    color: #fff;
+}
+.last-line{
+    background-color: black;
+    color: #a1a1a1;
+    margin: -44.8px 0px;
+    height: 30px;
+    display: flex;
+}
+
+.last1{
+    display: flex;
+    font-size: 13px;
+    gap: 15px;
+    margin: 0px 128px
+}
+.end1,.end2,.end3,.end4,.end5,.end6,.end7{
+    color: #a1a1a1;
+    cursor: pointer;
+}
+.end1:hover{
+    color: #ffffff;
+    text-decoration: underline;
+}
+.end2:hover{
+    color: #ffffff;
+    text-decoration: underline;
+}
+.end3:hover{
+    color: #ffffff;
+    text-decoration: underline;
+}
+.end4:hover{
+    color: #ffffff;
+    text-decoration: underline;
+}
+.end5:hover{
+    color: #ffffff;
+    text-decoration: underline;
+}
+.end6:hover{
+    color: #ffffff;
+    text-decoration: underline;
+}
+.end7:hover{
+    color: #ffffff;
+    text-decoration: underline;
+}
+.end{
+    list-style: none;
+}
